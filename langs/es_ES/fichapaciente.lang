@@ -1,0 +1,43 @@
+CHARSET=UTF-8
+Module674503Name=Ficha Paciente
+Module674503Desc=Modulo de ficha de paciente para optometria
+fichapaciente=Ficha Examen
+fichapaciente_patient=Nombre de paciente
+fichapaciente_optometrist=Optometrista
+fichapaciente_date=Fecha de examen
+fichapaciente_delete_confirm=¿Está seguro de querer ELIMINAR esta ficha?
+
+fichapaciente_test_1=1) ANAMNESIS
+fichapaciente_test_2=2) PRUEBAS PRELIMINARES
+fichapaciente_test_3=3) REFRACCIÓN
+fichapaciente_test_4=4) PRUEBAS COMPLEMENTARIAS
+fichapaciente_test_5=6) NOTAS
+
+fichapaciente_od=OD
+fichapaciente_oi=OI
+fichapaciente_altered=Alterado
+fichapaciente_notes=NOTAS
+
+fichapaciente_avsc=AV s/c
+fichapaciente_avcc=AV c/c
+fichapaciente_dnp=dnp
+fichapaciente_kx=Kx
+
+fichapaciente_ct=Cover Test
+fichapaciente_ppc=PPC
+fichapaciente_mot=Motilidad
+fichapaciente_rp=Reaccíon pupilar
+
+fichapaciente_esf=ESF
+fichapaciente_cil=CIL
+fichapaciente_eje=EJE
+fichapaciente_ad=AD
+fichapaciente_av=AV
+
+fichapaciente_tw=Test de Wörth
+fichapaciente_ts=Test de Schöber
+fichapaciente_pc=Prueba del color
+fichapaciente_ra=Rejilla Amster
+fichapaciente_tm=T. de Medios
+fichapaciente_ret=Retina
+fichapaciente_pio=PIO
